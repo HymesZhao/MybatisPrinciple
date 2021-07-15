@@ -2,7 +2,6 @@ package com.hymes.mybatisprinciple;
 
 
 import java.lang.reflect.Method;
-import java.lang.reflect.Proxy;
 
 interface  Test{
     public void say() throws NoSuchMethodException;
